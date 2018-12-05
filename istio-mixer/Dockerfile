@@ -1,0 +1,2 @@
+FROM docker.io/istio/mixer:1.0.4
+MAINTAINER yp
