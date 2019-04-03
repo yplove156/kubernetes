@@ -1,2 +1,2 @@
-FROM docker.io/istio/galley:1.0.4
+FROM docker.io/istio/galley:1.1.0
 MAINTAINER yp
